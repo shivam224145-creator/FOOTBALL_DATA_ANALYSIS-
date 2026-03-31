@@ -87,4 +87,4 @@ Give it a ⭐ on GitHub and feel free to connect!
 
 **Made with ❤️ by Shivam**
 
-**Download appearances.csv file from https://www.kaggle.com/datasets/davidcariboo/player-scores/data
+**Download appearances.csv file from https://www.kaggle.com/datasets/davidcariboo/player-scores/data**
