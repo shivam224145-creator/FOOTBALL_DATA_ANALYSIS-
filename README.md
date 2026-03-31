@@ -71,7 +71,6 @@ The analysis highlights that improving **performance metrics, player development
 
 ## 📁 Project Structure
 
-```
 Football-Data-Analysis/
 │
 ├── players.csv
@@ -87,3 +86,5 @@ Football-Data-Analysis/
 Give it a ⭐ on GitHub and feel free to connect!
 
 **Made with ❤️ by Shivam**
+
+**Download appearances.csv file from https://www.kaggle.com/datasets/davidcariboo/player-scores/data
